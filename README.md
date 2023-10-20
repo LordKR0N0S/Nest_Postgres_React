@@ -11,5 +11,5 @@ PostgreSQL: I utilized PostgreSQL as the database management system to store and
 
 JWT (JSON Web Tokens): JWTs provided a secure and efficient way to handle user authentication and authorization within the application.
 
-Conclusion
+
 In just two days, I successfully completed this project using a combination of Nest.js, React, and PostgreSQL. The application includes essential features like authentication, authorization, and state management using Redux Toolkit. This project serves as a testament to my ability to efficiently deliver a full-stack application within a tight timeframe.
